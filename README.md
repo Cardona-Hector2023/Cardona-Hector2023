@@ -80,3 +80,7 @@ Soy estudiante de la Universidad de San Carlos de Guatemala, actualmente cursand
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardona-Hector2023&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
 </div>
+
+## Contribution Activity
+
+<img src="https://raw.githubusercontent.com/PoncheDeFrutas/PoncheDeFrutas/output/snake.svg" alt="Snake animation" />
